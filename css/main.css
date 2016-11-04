@@ -1,0 +1,64 @@
+/* Inserta tu CSS aqui */
+.caja1 , .caja2, .caja3, .caja4, .caja5, .caja6, .caja7, .caja8{
+	background-color: #A4A4A4;
+	border-width: 2px;
+	border-style: solid;
+	width: 200px;
+    height: 200px;
+
+}
+.caja2{
+
+ 	position: absolute;
+ 	right: 1040px;
+ 	top:0px;
+
+ }
+ .caja2{
+
+ 	position: absolute;
+ 	right: 1040px;
+ 	top:235px;
+
+ }
+ .caja3{
+ 	position: absolute;
+ 	right: 830px;
+ 	top:235px;
+
+ }
+ .caja4{
+ 	background: #A4A4A4;
+ 	position: absolute;
+ 	right: 620px;
+ 	top:235px;
+
+ }
+.cajaPadre{
+	border-width: 2px;
+	border-style: solid;
+	background: #A4A4A4;
+	width: 650px;
+	height: 230px;
+	position: relative;
+	top: 8px;
+}
+ .caja5{
+ 	position: absolute;
+ 	right: 1050px;
+    top: 463px;
+
+ 	}
+ 	
+ .caja6{
+ 	position: absolute;
+ 	right: 839px;
+    top: 463px;
+
+ 	}
+ .caja7{
+ 	position: absolute;
+ 	right: 1049px;
+    top: 675px;
+
+ 	}
